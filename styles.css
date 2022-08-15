@@ -1,0 +1,50 @@
+/*index.html*/
+nav{
+    display: inline;
+}
+.a:active{
+    color: red;
+}
+.a:link{
+    color: blue;
+}
+.a{
+background-color: #000000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    cursor: pointer;
+}
+/*our_mail.html*/
+.lol{
+    text-align: center;
+}
+a:active {
+    color: red;
+}
+
+a:link {
+        color: blue;
+}
+#kek{
+    text-align: center;
+}
+#yy{
+    text-align: center;
+}
+/*register.html*/
+.button {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    cursor: pointer;
+}
